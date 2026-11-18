@@ -164,4 +164,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-**维护状态**: 🟢 活跃维护中
+**维护状态**: 停止维护
